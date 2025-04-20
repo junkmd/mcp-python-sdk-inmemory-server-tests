@@ -1,5 +1,9 @@
 # mcp-python-sdk-inmemory-server-tests
 
+This repository provides example code and tests for developing robust MCP tools.  
+It demonstrates how unit tests on individual functions can miss asynchronous pitfalls like `asyncio.run` in tools.  
+A more reliable testing approach using in-memory client sessions is showcased.
+
 ## Commands
 Setup:
 ```sh
