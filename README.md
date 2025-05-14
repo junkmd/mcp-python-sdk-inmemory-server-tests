@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/junkmd-mcp-python-sdk-inmemory-server-tests-badge.png)](https://mseep.ai/app/junkmd-mcp-python-sdk-inmemory-server-tests)
+
 # mcp-python-sdk-inmemory-server-tests
 
 This repository provides example code and tests for developing robust MCP tools.  
